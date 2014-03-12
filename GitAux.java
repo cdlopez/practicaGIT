@@ -21,5 +21,7 @@ public class GitAux {
         System.out.println("Aqui escribimos todos");
 	// Modificaciones CMLuis
 	System.out.println("CMLuis inserta esta sentencia");
+        //Un cambio conflictivo
+	System.out.println("CONFLICTO");
     }
 }
