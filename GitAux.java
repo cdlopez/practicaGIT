@@ -17,6 +17,7 @@ public class GitAux {
     }
     
     public void metodoComunitario(){
-        System.out.println("Aqui escribimos todos");
+        //Un cambio conflictivo
+	System.out.println("CONFLICTO");
     }
 }
