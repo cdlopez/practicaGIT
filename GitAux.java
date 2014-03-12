@@ -6,7 +6,7 @@ public class GitAux {
     
     public void metodoAlumno1(){
         //Un conflicto que git resuelve automaticamente
-	System.out.println("metodo 1");
+	System.out.println("metodo 1  ");
     }
     
     public void metodoAlumno2(){
@@ -19,6 +19,6 @@ public class GitAux {
     
     public void metodoComunitario(){
         //Un conflicto que resolver a mano
-        System.out.println("CONFLICTO");
+        System.out.println("");
     }
 }
